@@ -72,12 +72,5 @@
         "anchor": "tema2_2"
       }  
     ]   
-  },  
-  {
-    "id": 3,
-    "icon": "fa fa-question",
-    "slug": "actividad",
-    "title": "actividad didáctica",    
-    "path": "pages/actividad-1.html"       
-  }
+  } 
 ]
